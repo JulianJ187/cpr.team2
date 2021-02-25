@@ -22,7 +22,7 @@ Mit Hilfe des Temperatursensors DS18B20 kann man direkt am Raspberry Pi die Temp
 - [Docker](www.docker.com)
  
 ##### HW
-- Raspberry PI
+- Raspberry PId
 - Raspberry PI Webcam https://at.rs-online.com/web/p/raspberry-pi-kameras/9132664/
 - Raspberry PI IR Cam https://at.rs-online.com/web/p/raspberry-pi-kameras/9132673/
 
