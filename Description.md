@@ -7,7 +7,7 @@
 - Warnungen aussicken bei erhöterte oder zu niederiger Temperatur 
 
 ### Nichtziele
-- Mehrere Leute gleichzeitig erfassen
+- Mehrere Leute gleichzeitig erfasse
 
 
 # 
